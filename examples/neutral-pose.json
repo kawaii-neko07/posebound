@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "name": "neutral-pose",
+  "controls": {
+    "head": { "x": 320, "y": 113 },
+    "leftHand": { "x": 211, "y": 288 },
+    "rightHand": { "x": 429, "y": 288 },
+    "pelvis": { "x": 320, "y": 345 },
+    "interest": { "x": 493, "y": 145 }
+  },
+  "constraints": { "neckRadius": 54, "armReach": 174, "torsoLean": [-9, 9], "gaze": [-28, 28] }
+}
